@@ -1,0 +1,11 @@
+*.pyc
+*.toc
+*.zip
+*.pyz
+*.pkg
+*.txt
+*.html
+*.spec
+*.exe
+*.ini
+__pycache__
