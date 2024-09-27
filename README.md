@@ -11,4 +11,4 @@ Make sure config.ini is properly configured.
 
 
 This project is not finished, but the main functionality works.
-I am working on a user interface, which I have not learned yet.
+I am working on a user interface, not finished.
