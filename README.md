@@ -12,3 +12,11 @@ Make sure config.ini is properly configured.
 
 This project is not finished, but the main functionality works.
 I am working on a user interface, not finished.
+
+
+
+
+## To compile ##
+
+python -m PyInstaller --onefile --noconsole --name="Gardien Virtuel" main.py
+
